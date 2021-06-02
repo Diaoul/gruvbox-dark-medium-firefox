@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.1",
+  "version": "1.2",
   "name": "Gruvbox Dark Medium",
   "theme": {
     "colors": {
@@ -13,6 +13,7 @@
       "tab_line": "#d65d0e",
       "popup": "#282828",
       "popup_text": "#d5c4a1",
+      "popup_highlight": "#a89984",
       "button_background_active": "#d65d0e",
       "button_background_hover": "#665c54",
       "icons_attention": "#d65d0e",
