@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Gruvbox Dark Medium",
+  "theme": {
+    "colors": {
+      "toolbar": "#3c3836",
+      "toolbar_text": "#d5c4a1",
+      "frame": "#282828",
+      "tab_background_text": "#a89984",
+      "toolbar_field": "#504945",
+      "toolbar_field_text": "#ebdbb2",
+      "tab_line": "#d65d0e",
+      "popup": "#282828",
+      "popup_text": "#d5c4a1",
+      "button_background_active": "#d65d0e",
+      "button_background_hover": "#665c54",
+      "icons_attention": "#d65d0e",
+      "icons": "#bdae93",
+      "ntp_background": "#282828",
+      "ntp_text": "#d5c4a1",
+      "sidebar": "#3c3836",
+      "tab_loading": "#d65d0e",
+      "toolbar_bottom_separator": "#282828",
+      "toolbar_field_border": "#282828",
+      "toolbar_field_border_focus": "#d65d0e",
+      "toolbar_field_separator": "#a89984",
+      "toolbar_top_separator": "#1d2021"
+    }
+  }
+}
